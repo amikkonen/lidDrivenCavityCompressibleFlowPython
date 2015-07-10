@@ -14,7 +14,7 @@ publicing this out of a habit. Someone might find it useful while learning
 Python. A short given on the subject containing some of the equations should be 
 included.
 
-Lisence: DO WHAT EVER YOU WANT. A Citation would be appreciated.
+Lisence: DO WHATEVER YOU WANT. A Citation would be appreciated.
 
 Written by Antti Mikkonen, a.mikkonen@iki.fi, 2015
 
